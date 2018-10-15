@@ -1,5 +1,5 @@
 # Employer (Verified)
-Thesis (Validates an ex-employee)
+### Thesis (Validates an ex-employee)
 
 - This is an HTML page which represents the portal from the employer's side. Here, the employers can verify their ex-employee and send Letter of Recommendations across.
 
